@@ -1,5 +1,7 @@
 # Perfect ITX Hackintosh - KIT ERYING ITX Intel Core i7 12700H + RX 5700 XT
 
+![Overview](https://github.com/luchina-gabriel/EFI-ERYING-ITX-12700H-B660i-SRLD1-PUBLIC/assets/23700365/ffe5221f-8e0a-4058-b2ee-ca75345013dc)
+
 # Basic Information
 
 **Latest working macOS**: macOS Ventura (13.4)
