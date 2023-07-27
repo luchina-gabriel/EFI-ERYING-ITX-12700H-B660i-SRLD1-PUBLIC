@@ -1,0 +1,31 @@
+## GB5 - CPU Test - 12700H
+https://browser.geekbench.com/v5/cpu/21222148
+https://browser.geekbench.com/v5/cpu/21222169
+https://browser.geekbench.com/v5/cpu/21222179
+
+## GB5 - GPU Test - RX 5700 XT - OpenCL
+https://browser.geekbench.com/v5/compute/6540697
+https://browser.geekbench.com/v5/compute/6540698
+https://browser.geekbench.com/v5/compute/6540699
+
+## GB5 - GPU Test - RX 5700 XT - Metal API
+https://browser.geekbench.com/v5/compute/6540700
+https://browser.geekbench.com/v5/compute/6540701
+https://browser.geekbench.com/v5/compute/6540703
+
+------------------------------------------------------------------------
+
+## GB6 - CPU Test - 12700H
+https://browser.geekbench.com/v6/cpu/1312878
+https://browser.geekbench.com/v6/cpu/1312919
+https://browser.geekbench.com/v6/cpu/1312948
+
+## GB6 - GPU Test - RX 5700 XT - OpenCL
+https://browser.geekbench.com/v6/compute/461691
+https://browser.geekbench.com/v6/compute/461694
+https://browser.geekbench.com/v6/compute/461696
+
+## GB6 - GPU Test - RX 5700 XT - Metal API
+https://browser.geekbench.com/v6/compute/461702
+https://browser.geekbench.com/v6/compute/461704
+https://browser.geekbench.com/v6/compute/461709

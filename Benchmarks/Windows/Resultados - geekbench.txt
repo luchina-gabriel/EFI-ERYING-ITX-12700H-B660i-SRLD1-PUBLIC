@@ -1,0 +1,35 @@
+Geekbench V5
+
+## CPU Test - 12700H
+https://browser.geekbench.com/v5/cpu/21221240
+https://browser.geekbench.com/v5/cpu/21221252
+https://browser.geekbench.com/v5/cpu/21221263
+
+## GPU Test - RX 5700 XT - OpenCL
+https://browser.geekbench.com/v5/compute/6540494
+https://browser.geekbench.com/v5/compute/6540495
+https://browser.geekbench.com/v5/compute/6540496
+
+## GPU Test - RX 5700 XT - Vulkan
+https://browser.geekbench.com/v5/compute/6540498
+https://browser.geekbench.com/v5/compute/6540499
+https://browser.geekbench.com/v5/compute/6540501
+
+------------------------------------------------------------------------
+
+Geekbench V6
+
+## CPU Test - 12700H
+https://browser.geekbench.com/v6/cpu/1310176
+https://browser.geekbench.com/v6/cpu/1310208
+https://browser.geekbench.com/v6/cpu/1310246
+
+## GPU Test - RX 5700 XT - OpenCL
+https://browser.geekbench.com/v6/compute/460799
+https://browser.geekbench.com/v6/compute/460803
+https://browser.geekbench.com/v6/compute/460811
+
+## GPU Test - RX 5700 XT - Vulkan
+https://browser.geekbench.com/v6/compute/460815
+https://browser.geekbench.com/v6/compute/460819
+https://browser.geekbench.com/v6/compute/460823
