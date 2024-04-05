@@ -4,11 +4,11 @@
 
 # Basic Information
 
-**Latest working macOS**: macOS Sonoma (14.2.1)
+**Latest working macOS**: macOS Sonoma (14.3.1)
 <br>
-**Current OpenCore**: 0.9.7
+**Current OpenCore**: 0.9.9
 <br>
-**Release date**: 09/01/2024
+**Release date**: 05/04/2024
 
 # Hackintosh Specifications
 |Item|Description|
